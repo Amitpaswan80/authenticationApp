@@ -1,0 +1,3 @@
+module.exports = {
+    MongoURI: "mongodb+srv://amitpaswanbr:2XnOQT53xKrRQBRh@cluster0.kkaeuxr.mongodb.net/userData?retryWrites=true&w=majority&appName=Cluster0"
+}
